@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Meera Sharma",
+    "specialty": "Internal Medicine",
+    "experience": 10,
+    "gender": "Female",
+    "consultationFee": 500,
+    "location": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Raj Malhotra",
+    "specialty": "Cardiologist",
+    "experience": 12,
+    "gender": "Male",
+    "consultationFee": 700,
+    "location": "Mumbai"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Anjali Verma",
+    "specialty": "Dermatologist",
+    "experience": 8,
+    "gender": "Female",
+    "consultationFee": 600,
+    "location": "Bangalore"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Vikram Singh",
+    "specialty": "Neurologist",
+    "experience": 15,
+    "gender": "Male",
+    "consultationFee": 1000,
+    "location": "Hyderabad"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Nisha Patel",
+    "specialty": "Pediatrician",
+    "experience": 6,
+    "gender": "Female",
+    "consultationFee": 400,
+    "location": "Chennai"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Amit Desai",
+    "specialty": "Orthopedic",
+    "experience": 11,
+    "gender": "Male",
+    "consultationFee": 750,
+    "location": "Pune"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Shruti Agarwal",
+    "specialty": "Gynecologist",
+    "experience": 9,
+    "gender": "Female",
+    "consultationFee": 550,
+    "location": "Ahmedabad"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Rakesh Reddy",
+    "specialty": "ENT Specialist",
+    "experience": 7,
+    "gender": "Male",
+    "consultationFee": 500,
+    "location": "Hyderabad"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Priya Nair",
+    "specialty": "General Surgeon",
+    "experience": 13,
+    "gender": "Female",
+    "consultationFee": 850,
+    "location": "Kochi"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Sanjay Mehta",
+    "specialty": "Psychiatrist",
+    "experience": 10,
+    "gender": "Male",
+    "consultationFee": 900,
+    "location": "Delhi"
+  },
+  {
+    "id": 11,
+    "name": "Dr. Ritu Kapoor",
+    "specialty": "Oncologist",
+    "experience": 14,
+    "gender": "Female",
+    "consultationFee": 1200,
+    "location": "Mumbai"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Abhishek Joshi",
+    "specialty": "Pulmonologist",
+    "experience": 5,
+    "gender": "Male",
+    "consultationFee": 600,
+    "location": "Indore"
+  },
+  {
+    "id": 13,
+    "name": "Dr. Kavita Rao",
+    "specialty": "Endocrinologist",
+    "experience": 10,
+    "gender": "Female",
+    "consultationFee": 950,
+    "location": "Nagpur"
+  },
+  {
+    "id": 14,
+    "name": "Dr. Rohit Sinha",
+    "specialty": "Nephrologist",
+    "experience": 12,
+    "gender": "Male",
+    "consultationFee": 1100,
+    "location": "Kolkata"
+  },
+  {
+    "id": 15,
+    "name": "Dr. Shalini Iyer",
+    "specialty": "Rheumatologist",
+    "experience": 8,
+    "gender": "Female",
+    "consultationFee": 700,
+    "location": "Bangalore"
+  },
+  {
+    "name": "sdfa",
+    "specialty": "fasdf",
+    "experience": 4,
+    "gender": "F",
+    "consultationFee": 23,
+    "location": "dubai",
+    "id": 1746350820550
+  },
+  {
+    "name": "saurabh",
+    "specialty": "bgmi",
+    "experience": 5,
+    "gender": "M",
+    "consultationFee": 2,
+    "location": "Kanpur",
+    "id": 1746351009238
+  },
+  {
+    "name": "ram",
+    "specialty": "spirituality",
+    "experience": 5,
+    "gender": "m",
+    "consultationFee": 2000,
+    "location": "ayodhya",
+    "id": 1746379795290
+  }
+]
